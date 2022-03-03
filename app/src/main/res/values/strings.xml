@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Jetchat0</string>
+    <string name="search">Search</string>
+    <string name="info">Information</string>
+    <string name="author_me">me</string>
+    <string name="now">8:30 PM</string>
+    <string name="attached_image">Attached image</string>
+    <string name="text_field_desc">Text input</string>
+    <string name="textfield_hint">Message #composers</string>
+    <string name="emoji_selector_bt_desc">Show emoji selector</string>
+    <string name="dm_desc">Direct Message</string>
+    <string name="attach_photo_desc">Attach Photo</string>
+    <string name="map_selector_desc">Location selector</string>
+    <string name="videochat_desc">Start videochat</string>
+    <string name="send">Send</string>
+    <string name="emoji_selector_desc">Emoji selector</string>
+    <string name="emojis_label">Emojis</string>
+    <string name="not_available">Functionality currently not available</string>
+    <string name="not_available_subtitle">Grab a beverage and check back later!</string>
+    <string name="stickers_label">Stickers</string>
+    <string name="jumpBottom">Jumb to bottom</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="members">%d members</string>
+    <string name="profile_error">There was an error loading the profile</string>
+    <string name="more_options">More options</string>
+    <string name="display_name">Display name</string>
+    <string name="status">Status</string>
+    <string name="twitter">Twitter</string>
+    <string name="timezone">Timezone</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="message">Message</string>
+
+</resources>
